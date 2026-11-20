@@ -325,7 +325,7 @@ this guide.
 Referral rewards on make.fun change over time, so here is the state of play
 as of **20 November 2026**, taken from the Referrals tab:
 
-- The **signup bonus** and the **first-entry bonus** are currently **turned off**.
+- The **signup bonus** is **$0.25 per new referral, for your first 20 sign-ups** (20 left as of 20 November 2026). The **first-entry bonus** is currently **turned off**.
 - The live reward is **10% of what your referral wins, for 90 days** — paid
   by the house on top of their winnings, never taken out of what they won.
 - Every reward is **reviewed for at least a day** before it can be claimed.
@@ -618,10 +618,7 @@ this platform.
 <details>
 <summary><strong>Do referrals really pay?</strong></summary>
 
-The live referral reward, as of 20 November 2026, is 10% of what your
-referral wins for 90 days, paid by the house on top — but the signup and
-first-entry bonuses are currently turned off, and only real new accounts that
-take part count. Rewards are reviewed for at least a day. Treat referrals as
+The live referral rewards, as of 20 November 2026, are $0.25 per new signup for your first 20 sign-ups, plus 10% of what your referral wins for 90 days, paid by the house on top — the first-entry bonus is currently turned off, and only real new accounts that take part count. Rewards are reviewed for at least a day. Treat referrals as
 a side benefit of recommending something you genuinely use, not as income you
 can count on.
 </details>
